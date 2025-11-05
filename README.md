@@ -1,6 +1,6 @@
 # 👨‍💻 Mário Ortega
 
-### 🏆 O GOAT do Desenvolvimento de Software  
+### 🏆 O Melhor do Desenvolvimento de Software  
 > “Código limpo, café forte e inovação constante.”
 
 ---
